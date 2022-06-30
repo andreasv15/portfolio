@@ -10,7 +10,7 @@ function About() {
             </h1>
             <div class="subheading mb-5">
                 {/* "Conóceme por mis habilidades, no por mi discapacidad" - Robert M. Hensel */}
-                "Mi discapacidad no limita mis capacidades de seguir creciendo personalmente y profesionalmente"
+                "Mi discapacidad no limita mis capacidades de seguir creciendo personal y profesionalmente"
             </div>
             <p class="lead mb-5">
             {/* I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. 
