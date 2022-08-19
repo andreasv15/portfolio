@@ -7,12 +7,12 @@ function Proyectos() {
     <section class="resume-section" id="proyectos">
         <div class="resume-section-content">
             <h2 class="mb-5">Proyectos</h2>
-            <div class="d-flex justify-content-around flex-wrap">
+            <div class="d-flex justify-content-around flex-wrap gap-3 flex-row">
             <div class="card" style={{width: "18rem"}}>
                 <img src="/ironspace-game.png" class="card-img-top img-fluid" alt="IronSpace Game" style={{maxHeight: "200px"}} />
                 <div class="card-body">
-                    <h5 class="card-title"> IronSpace Game! </h5>
-                    <p class="card-text">
+                    <h5 class="card-title text-center"> IronSpace Game! </h5>
+                    <p class="card-text text-center">
                         Consiste en disparar tantos obstáculos como sea posible, ¡pero intenta no dejar que pasen de tu nave para evitar perder puntos!
                     </p>
                     <div class="d-flex justify-content-center">
@@ -33,8 +33,8 @@ function Proyectos() {
                 <div class="card" style={{width: "18rem"}}>
                     <img src="/top-games.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "200px"}} />
                     <div class="card-body">
-                        <h5 class="card-title">Top-Games</h5>
-                        <p class="card-text">Plataforma donde están alojados los juegos desarrollados por los alumnos y alumnas de mi promoción de Ironhack.</p>
+                        <h5 class="card-title text-center">Top-Games</h5>
+                        <p class="card-text text-center">Plataforma donde están alojados los juegos desarrollados por los alumnos y alumnas de mi promoción de Ironhack.</p>
                         <div class="d-flex justify-content-center">
                             <AwesomeButton target="_blank" href="https://games-portal.herokuapp.com/">Demo</AwesomeButton>
                         </div>
@@ -48,8 +48,8 @@ function Proyectos() {
                 <div class="card" style={{width: "18rem"}}>
                     <img src="cylMap.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "180px"}} />
                     <div class="card-body">
-                        <h5 class="card-title">TripAdvisor CyL</h5>
-                        <p class="card-text">Web de restaurantes de CyL recomendados.</p>
+                        <h5 class="card-title text-center">TripAdvisor CyL</h5>
+                        <p class="card-text text-center">Web de restaurantes de CyL recomendados.</p>
                         <div class="d-flex justify-content-center">
                             <AwesomeButton target="_blank" href="https://tripadvisorcyl.netlify.app/" >Demo</AwesomeButton>
                         </div>
@@ -67,8 +67,8 @@ function Proyectos() {
                 <div class="card" style={{width: "18rem"}}>
                     <img src="biblioteca-casera.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "180px"}} />
                     <div class="card-body">
-                        <h5 class="card-title">La biblioteca casera</h5>
-                        <p class="card-text">¿Dónde está mi libro? En esta aplicación puedes registrar en qué sitio has dejado el libro que estás buscando.</p>
+                        <h5 class="card-title text-center">La biblioteca casera</h5>
+                        <p class="card-text text-center">¿Dónde está mi libro? En esta aplicación puedes registrar en qué sitio has dejado el libro que estás buscando.</p>
                         <div class="d-flex justify-content-center">
                             <AwesomeButton target="_blank" href="https://biblioteca-casera.netlify.app/" >Demo</AwesomeButton>
                         </div>
