@@ -64,6 +64,26 @@ function Proyectos() {
                     </div>
                 </div>
 
+                <div class="card" style={{width: "18rem"}}>
+                    <img src="biblioteca-casera.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "180px"}} />
+                    <div class="card-body">
+                        <h5 class="card-title">La biblioteca casera</h5>
+                        <p class="card-text">¿Dónde está mi libro? En esta aplicación puedes registrar en qué sitio has dejado el libro que estás buscando.</p>
+                        <div class="d-flex justify-content-center">
+                            <AwesomeButton target="_blank" href="https://biblioteca-casera.netlify.app/" >Demo</AwesomeButton>
+                        </div>
+                        <hr />
+                        <div class="d-flex justify-content-center">
+                            <AwesomeButton target="_blank" href="https://github.com/andreasv15/busca-libros-server" >Repositorio Servidor</AwesomeButton>
+                        </div>
+                        <br />
+                        <div class="d-flex justify-content-center">
+                            <AwesomeButton target="_blank" href="https://github.com/andreasv15/busca-libros-client" >Repositorio Cliente</AwesomeButton>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
 
         </div>
