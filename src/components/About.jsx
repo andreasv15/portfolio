@@ -15,7 +15,7 @@ function About() {
             <p class="lead mb-5">
             {/* I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. 
             Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. */}
-                Nací y crecí en la ciudad de Salamanca. Mis pasiones son viajar, visitar restaurantes y disfrutar con mis amigos. 
+                Nací y crecí en la ciudad de Salamanca. Mis pasiones son viajar, la comida y disfrutar con mis amigos y amigas. 
                 <br />
                 Desde pequeña sentí mucha curiosidad por la tecnología. Por eso, tan pronto como pude empecé mis estudios relacionados 
                 con la informática y en el camino descubrí el apasionante mundo de la programación. No lo dudé y seguí formándome 
