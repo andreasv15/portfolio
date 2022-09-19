@@ -15,7 +15,7 @@ Cursos realizados.
 
 ## Mis habilidades
 
-Conocimientos adquiridos en los cursos realizados. Lenguajes de programación, librerías, frameworks, programas, etc.
+Conocimientos adquiridos en los cursos. Lenguajes de programación, librerías, frameworks, programas, etc.
 
 ## Mis proyectos
 
