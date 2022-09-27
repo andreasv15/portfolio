@@ -45,7 +45,7 @@ function Proyectos() {
                     </div>
                 </div>
 
-                <div class="card" style={{width: "18rem"}}>
+                {/* <div class="card" style={{width: "18rem"}}>
                     <img src="cylMap.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "180px"}} />
                     <div class="card-body">
                         <h5 class="card-title text-center">TripAdvisor CyL</h5>
@@ -62,7 +62,7 @@ function Proyectos() {
                             <AwesomeButton target="_blank" href="https://github.com/andreasv15/mapcyl-client" >Repositorio Cliente</AwesomeButton>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <div class="card" style={{width: "18rem"}}>
                     <img src="biblioteca-casera.png" class="card-img-top img-fluid" alt="..." style={{maxHeight: "180px"}} />
