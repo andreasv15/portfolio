@@ -21,6 +21,7 @@ function Experiencia() {
                     <p>
                         <ul>
                             <li>Desarrollo de nuevas funcionalidades en lenguaje Java para aplicación web interna.</li>
+                            <li>Desarrollo de nuevas funcionalidades en lenguaje PrimeFaces para aplicación web interna.</li>
                             <li>Resolución de errores en la aplicación web reclamadas.</li>
                             <li>Curso formativo de PrimeFaces.</li>
                             <li>Administración de Bases de Datos.</li>
