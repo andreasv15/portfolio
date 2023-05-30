@@ -27,6 +27,7 @@ function Skills() {
                 <ul class="list-inline dev-icons">
                     <li class="list-inline-item"><i class="fa-brands fa-git-square" title="Git"></i></li>
                     <li class="list-inline-item"><i class="fa-brands fa-github" title="GitHub"></i></li>
+                    <li class="list-inline-item"><i class="fa-brands fa-bitbucket" title="BitBucket"></i></li>
                 </ul>
 
             <div class="subheading mb-3"> Y otras como: </div>
