@@ -20,8 +20,8 @@ function Experiencia() {
                     <h4 className="vertical-timeline-element-subtitle">Telefónica España</h4>
                     <p>
                         <ul>
-                            <li>Desarrollo de nuevas funcionalidades en lenguaje Java para aplicación web interna.</li>
-                            <li>Desarrollo de nuevas funcionalidades en lenguaje PrimeFaces para aplicación web interna.</li>
+                            <li>Desarrollo de nuevas funcionalidades en lenguaje Java para aplicación web interna (Backend).</li>
+                            <li>Desarrollo de nuevas funcionalidades en lenguaje PrimeFaces para aplicación web interna (Frontend).</li>
                             <li>Resolución de errores en la aplicación web reclamadas.</li>
                             <li>Curso formativo de PrimeFaces.</li>
                             <li>Administración de Bases de Datos.</li>
