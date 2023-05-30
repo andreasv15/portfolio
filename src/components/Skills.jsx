@@ -21,6 +21,7 @@ function Skills() {
                 <li class="list-inline-item"><i class="fa-brands fa-bootstrap" title="Bootstrap"></i></li>
                 <li class="list-inline-item"><SiMysql title='MySQL' /></li>
                 <li class="list-inline-item"><i class="fab fa-wordpress" title="WordPress"></i></li>
+                <li class="list-inline-item"><i class="fa-brands fa-java" title="Java"></i></li>
             </ul>
             <div class="subheading mb-3">Control de versiones: </div>
                 <ul class="list-inline dev-icons">
