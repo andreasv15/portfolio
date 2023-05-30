@@ -12,11 +12,31 @@ function Experiencia() {
                     className="vertical-timeline-element--work"
                     contentStyle={{ background: 'rgb(255, 205, 105)', color: 'black' }}
                     contentArrowStyle={{ borderRight: '7px solid  rgb(255, 205, 105)' }}
+                    date="Diciembre 2022 - Actualidad"
+                    iconStyle={{ background: 'rgb(255, 205, 105)', color: '#fff' }}
+                    icon={<i class="fa-solid fa-briefcase"></i>}
+                >
+                    <h3 className="vertical-timeline-element-title">Desarrolladora web fullstack</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Telefónica España</h4>
+                    <p>
+                        <ul>
+                            <li>Desarrollo de nuevas funcionalidades en lenguaje Java para aplicación web interna.</li>
+                            <li>Resolución de errores en la aplicación web reclamadas.</li>
+                            <li>Curso formativo de PrimeFaces.</li>
+                            <li>Administración de Bases de Datos.</li>
+                        </ul>
+                    </p>
+                </VerticalTimelineElement>
+
+                <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentStyle={{ background: 'rgb(255, 205, 105)', color: 'black' }}
+                    contentArrowStyle={{ borderRight: '7px solid  rgb(255, 205, 105)' }}
                     date="Octubre 2021 - Diciembre 2021"
                     iconStyle={{ background: 'rgb(255, 205, 105)', color: '#fff' }}
                     icon={<i class="fa-solid fa-briefcase"></i>}
                 >
-                    <h3 className="vertical-timeline-element-title">Desarrolladora web de PHP</h3>
+                    <h3 className="vertical-timeline-element-title">Desarrolladora web</h3>
                     <h4 className="vertical-timeline-element-subtitle">Pixel Innova (prácticas)</h4>
                     <p>
                         <ul>
@@ -52,11 +72,14 @@ function Experiencia() {
                     iconStyle={{ background: 'rgb(255, 205, 105)', color: '#fff' }}
                     icon={<i class="fa-solid fa-briefcase"></i>}
                 >
-                    <h3 className="vertical-timeline-element-title">Programadora Junior de SQL</h3>
+                    <h3 className="vertical-timeline-element-title">Programadora Junior</h3>
                     <h4 className="vertical-timeline-element-subtitle">Indra</h4>
                     <p>
                         <ul>
-                            <li>Resolución de incidencias de clientes de Telefónica a través de sentencias SQL.</li>
+                            <li>Análisis de pedidos de clientes de Telefónica e identificación de los problemas en el proceso de estos.</li>
+                            <li>Tratamiento y resolución de incidencias en los pedidos a través de sentencias SQL.</li>
+                            <li>Administración de Bases de Datos en entorno de Producción.</li>
+                            <li>Regularizaciones masivas.</li>
                         </ul>
                     </p>
                 </VerticalTimelineElement>

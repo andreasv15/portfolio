@@ -36,7 +36,7 @@ function Proyectos() {
                         <h5 class="card-title text-center">Top-Games</h5>
                         <p class="card-text text-center">Plataforma donde están alojados los juegos desarrollados por los alumnos y alumnas de mi promoción de Ironhack.</p>
                         <div class="d-flex justify-content-center">
-                            <AwesomeButton target="_blank" href="https://games-portal.herokuapp.com/">Demo</AwesomeButton>
+                            <AwesomeButton target="_blank" href="https://top-games.fly.dev/">Demo</AwesomeButton>
                         </div>
                         <hr />
                         <div class="d-flex justify-content-center">
